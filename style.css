@@ -1,0 +1,28 @@
+
+p {display:inline;
+background-color: AntiqueWhite;
+font-size: 3em;
+
+}
+
+img {height: 200px;
+border: 5px blue;
+border-radius: 20px;
+
+}
+
+.box {width: 50%;
+height: 150px;
+padding: 20px;
+display: inline-block;
+}
+
+.red {background-color: red;
+}
+
+.green {background-color: green;
+}
+
+input[type="email"] {
+border-color: green;
+}
